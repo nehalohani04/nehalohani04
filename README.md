@@ -5,7 +5,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/lohani0402_neha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lohani0402_neha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nehalohani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nehalohani" height="30" width="40" /></a>
+<a href="https://instagram.com/neha.lohani.004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neha.lohani.004" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/neha_004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="neha_004" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
